@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bookie212
-- 👀 I’m interested in cloud computing 
-- 🌱 I’m currently learning python language 
-- 💞️ I’m looking to collaborate on python project 
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning html and css 
+- 💞️ I’m looking to collaborate on css project 
 - 📫 How to reach me nancybookie675@gmail.com/ @boo_kie_ on ig
 
 <!---

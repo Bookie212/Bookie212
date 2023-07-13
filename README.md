@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bookie212
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning html and css 
-- 💞️ I’m looking to collaborate on css project 
+- 👀 I’m interested in making friends for projects
+- 🌱 I’m currently a student of @alxschool of software engineering 
+- 💞️ I’m looking to collaborate on  projects
 - 📫 How to reach me nancybookie675@gmail.com/ @boo_kie_ on ig
 
 <!---

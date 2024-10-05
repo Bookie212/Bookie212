@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bookie212
 - 👀 I’m interested in making friends for projects
 - 🌱 I’m currently a junior frontend web developer
-- 💞️ I’m looking to collaborate on  projects with html and css
+- 💞️ I’m looking to collaborate on  projects with HTML, CSS and Javascript
 - 📫 How to reach me nancybookie675@gmail.com/ @boo_kie_ on ig
 
 <!---

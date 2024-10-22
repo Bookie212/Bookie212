@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @Bookie212
-- 👀 I’m interested in making friends for projects
-- 🌱 I’m currently a junior frontend web developer
-- 💞️ I’m looking to collaborate on  projects with HTML, CSS and Javascript
-- 📫 How to reach me nancybookie675@gmail.com/ @boo_kie_ on ig
+Hi guys, I'm Bukola Hambolu
 
-<!---
-Bookie212/Bookie212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Junior Web Front End Developer
+I'm a passionate front end developer, I craft innovative and responsive web designs using HTML, CSS and Javascript. 
+
+TECHNOLOGIES & TOOLS
+Languages: HTML, CSS, JavaScript.
+Tools: Git, Github, VS Code
+Design: Responsive Design
+
+WHAT I'M LEARNING 
+Diving deeper into JavaScript.
+CSS Animation
+
+CONNECT WITH ME 
+EMAIL: nancybookie675@gmail.com
+LinkedIn: www.linkedin.com/in/bukola-hambolu-71a581209
